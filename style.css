@@ -1,0 +1,67 @@
+/*comment here and no one will see*/
+
+body {
+	background-color: #190E4F;
+	color:#A7B0CA;
+	font-size:12px;
+	font-family: 'Noto Serif', serif;
+}
+
+p {
+	font-family:'Noto Serif', serif;
+	font-size:20px;
+	color:grey;
+}
+
+h1 {
+	font-family: 'Noto Serif', serif;
+	font-size:100px;
+	color:black;
+	/*padding: 30px 0 px 0px 30px;*/
+}
+
+
+h2 {
+    font-family: 'Noto Serif', serif;
+	font-size:20px;
+	color:grey;
+
+}
+
+
+
+
+   #main{
+	font-size:30px;
+}
+
+
+   #banner {
+   text-align: center;
+   background-image: url(https://images.unsplash.com/photo-1496181133206-80ce9b88a853?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1351&q=80);
+   background-size: cover;
+   padding:200px;
+   text-shadow: 1px 1px 1px black;
+   }
+
+
+.container {
+	padding-left: 50px;
+}
+
+
+
+a {
+	text-decoration: none;
+}
+
+
+footer {
+	font-size: 20px
+	background-color:black;
+}
+
+.social {
+	font-size: 30px;
+	padding: 20px;
+	hover:100px;
